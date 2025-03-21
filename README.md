@@ -25,4 +25,9 @@ Tech Stack
 1. Clone the repository:  
    ```sh
    git clone https://github.com/amansinghSAIT/movie-database-explorer.git
-
+2.## ⚙️ Installation  
+```sh
+git clone https://github.com/amansinghSAIT/movie-database-explorer.git
+cd movie-database-explorer
+npm install
+npm start
