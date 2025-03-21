@@ -7,25 +7,16 @@ You can view the live version here: [Movie Database Explorer](https://movie-data
 
 ---
 
-## 📸 Screenshots  
-### 🔹 Home Page  
-![Home Page](screenshot/homepage.png)
 
-### 🔹 Search Functionality  
-![Search Feature](screenshot/search.png)
-
-### 🔹 Movie Details  
-![Movie Details](screenshot/details.png)
-
-### 🔹 Mobile View  
-![Mobile Responsive](screenshot/mobile.png)
 
 ---
 
-## 🛠️ Tech Stack  
-- **Framework:** Next.js  
-- **API:** TheMovieDB API  
-- **Styling:** CSS, Tailwind  
+Tech Stack
+🔹 React.js - Frontend framework
+🔹 TheMovieDB API - Fetches movie data
+🔹 CSS - Styling
+🔹 React Router - Navigation
+🔹 Axios - API calls 
 
 ---
 
