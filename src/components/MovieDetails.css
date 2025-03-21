@@ -1,0 +1,17 @@
+.details-container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .details-content {
+    max-width: 500px;
+  }
+  
+  .details-container img {
+    width: 300px;
+    border-radius: 8px;
+  }
+  

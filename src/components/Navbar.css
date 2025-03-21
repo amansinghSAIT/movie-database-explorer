@@ -1,0 +1,28 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #333;
+    padding: 10px 20px;
+    color: white;
+  }
+  
+  .navbar form {
+    display: flex;
+  }
+  
+  .navbar input {
+    padding: 8px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  
+  .navbar button {
+    background: red;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  

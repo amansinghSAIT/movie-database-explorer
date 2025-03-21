@@ -1,0 +1,30 @@
+.movie-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+  }
+  
+  .movie-card {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .movie-card img {
+    width: 100%;
+    border-radius: 10px;
+  }
+  
+  .movie-card a {
+    text-decoration: none;
+    background: red;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 10px;
+  }
+  
